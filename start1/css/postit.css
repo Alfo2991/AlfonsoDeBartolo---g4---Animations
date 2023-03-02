@@ -53,7 +53,7 @@ h1 {
 #purple1, #purple2 {
     
     background: linear-gradient(180deg,#b260a1,rgb(156, 151, 151));
-    transform: rotate(-10deg);
+    transform: rotate(-10deg) ;
 }
 #purple1:hover,#purple2:hover {
     transform: scale(1.5,1.5);
