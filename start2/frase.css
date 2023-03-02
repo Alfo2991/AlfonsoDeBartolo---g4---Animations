@@ -43,17 +43,4 @@
     background-color: paleturquoise;
   }
   
-  .parola.visible {
-    opacity: 1;
-    animation: dissolvenza 0.5s ease-in-out;
-  }
-  
-  @keyframes dissolvenza {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-  
+ 
